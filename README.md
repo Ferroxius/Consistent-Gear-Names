@@ -46,4 +46,4 @@ Place either modConsistenGearNames_Normal or modConsistentGearNames_family into 
 Take either modConsistenGearNames_Normal or modConsistentGearNames_family out of your mod folder
 
 ### Credits
-K1ngTr4cker for providing Standardised Naming Convention's csv as a basis for this mod
+Faen for providing Standardised Naming Convention's csv as a basis for this mod

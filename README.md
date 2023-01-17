@@ -5,18 +5,18 @@ This mod aims to standardise this naming convention. Two versions exist:
 
 ### Normal Naming
 Changes the Armour names to the following:
-Feline     -> Cat
-Ursine     -> Bear
-Griffin
-Wolf
-Viper
-Manticore
+- Feline     -> Cat
+- Ursine     -> Bear
+- Griffin
+- Wolf
+- Viper
+- Manticore
 
 ### Latin Family Names
 Changes the Armour names to the following:
-Feline
-Ursine
-Griffin     -> Gryphine
-Wolf        -> Lupine
-Viper       -> Serpentine
-Manticore   -> Manticorine
+- Feline
+- Ursine
+- Griffin     -> Gryphine
+- Wolf        -> Lupine
+- Viper       -> Serpentine
+- Manticore   -> Manticorine

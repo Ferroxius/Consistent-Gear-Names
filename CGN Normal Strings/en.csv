@@ -1,0 +1,1188 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+;
+;
+;w3strings.exe --encode en.csv --force-ignore-id-space-check-i-know-what-i-am-doing
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Serpentine Set (White Orchard)
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+   1086308|7e79cf87||Diagram: Serpentine Silver Sword
+   1082948|4fa85cf9||Serpentine Silver Sword
+;
+;Steel Sword
+;
+   1086307|c7641a29||Diagram: Serpentine Steel Sword
+   1079286|968f2a1b||Serpentine Steel Sword
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Venomous Serpentine Set (Hearts of Stone)
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+   1137186|1bbb573d||Serpentine Silver sword
+   1141682|6113b341||Serpentine Silver Sword - Legendary
+;
+   1137187|bf5bc4cb||Diagram: Serpentine Silver sword
+   1141683|ba83ebcf||Diagram: Serpentine Silver Sword - Legendary
+;
+;Steel Sword
+;
+   1137179|52d1d757||Serpentine Steel sword
+   1141684|0abbead3||Serpentine Steel Sword - Legendary
+;
+   1137180|0b8c6c65||Diagram: Serpentine Steel sword
+   1141685|7f0154e1||Diagram: Serpentine Steel Sword - Legendary
+;
+;Armor
+;
+   1137177|6e703aa0||Serpentine Armor
+   1141674|b3d35f5c||Serpentine Armor - Legendary
+;	
+   1137178|a002086e||Diagram: Serpentine Armor
+   1141675|46bb722a||Diagram: Serpentine Armor - Legendary
+;
+;Boots
+;
+   1141668|6e7cfd22||Serpentine Boots
+   1141676|b3e021de||Serpentine Boots - Legendary
+;	
+   1141669|eca71070||Diagram: Serpentine Boots
+   1141677|93607a2c||Diagram: Serpentine Boots - Legendary
+;
+;Gauntlets
+;
+   1141670|6980a1f9||Serpentine Gauntlets
+   1141678|d08214bd||Serpentine Gauntlets - Legendary
+;	
+   1141671|ce7fd487||Diagram: Serpentine Gauntlets
+   1141679|fef3a24b||Diagram: Serpentine Gauntlets - Legendary
+;
+;Trousers
+;
+   1141672|6f3be53d||Serpentine Trousers
+   1141680|b49f09f9||Serpentine Trousers - Legendary
+;	
+   1141673|8e02d2cb||Diagram: Serpentine Trousers
+   1141681|34bc3c87||Diagram: Serpentine Trousers - Legendary
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Gryphine Set
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+   1063879|c0a1f9b4||Gryphine Silver Sword
+   1063880|200a6866||Gryphine Silver Sword - Enhanced
+   1063881|200a6867||Gryphine Silver Sword - Superior
+   1063882|200a6868||Gryphine Silver Sword - Mastercrafted
+   1188296|200a6869||Gryphine Silver Sword - Grandmaster
+;
+   1108930|402b3487||Gryphine Silver Sword - Legendary
+   1108931|e2303a79||Gryphine Silver Sword - Legendary (Enhanced)
+   1108932|e2303a7a||Gryphine Silver Sword - Legendary (Superior)
+   1108933|e2303a7b||Gryphine Silver Sword - Legendary (Mastercrafted)
+   1193051|e2303a7c||Gryphine Silver Sword - Legendary (Grandmaster)
+;   
+   1057204|ec2efe82||Diagram: Gryphine Silver Sword
+   1057316|a3d15b11||Diagram: Gryphine Silver Sword - Enhanced
+   1057317|a3d15b12||Diagram: Gryphine Silver Sword - Superior
+   1057318|a3d15b13||Diagram: Gryphine Silver Sword - Mastercrafted
+   1190111|a3d15b14||Diagram: Gryphine Silver Sword - Grandmaster
+;
+   1108934|dd770d95||Diagram: Gryphine Silver Sword - Legendary
+   1108935|5bea0807||Diagram: Gryphine Silver Sword - Legendary (Enhanced)
+   1108936|5bea0808||Diagram: Gryphine Silver Sword - Legendary (Superior)
+   1108937|5bea0809||Diagram: Gryphine Silver Sword - Legendary (Mastercrafted)
+   1193052|0e8bee67||Diagram: Gryphine Silver Sword - Legendary (Grandmaster)
+;
+;Steel Sword
+;
+   1063840|4fe18a00||Gryphine Steel Sword
+   1063841|dda715b2||Gryphine Steel Sword - Enhanced
+   1063842|dda715b3||Gryphine Steel Sword - Superior
+   1063843|dda715b4||Gryphine Steel Sword - Mastercrafted
+   1188297|dda715b5||Gryphine Steel Sword - Grandmaster
+;
+   1108938|09ac28cd||Gryphine Steel Sword - Legendary
+   1108939|4f45353f||Gryphine Steel Sword - Legendary (Enhanced)
+   1108940|4f453540||Gryphine Steel Sword - Legendary (Superior)
+   1108941|4f453541||Gryphine Steel Sword - Legendary (Mastercrafted)  
+   1193053|4f453542||Gryphine Steel Sword - Legendary (Grandmaster)
+;
+   1082474|d53e422b||Diagram: Gryphine Steel Sword   
+   1057186|911f9fce||Diagram: Gryphine Steel Sword
+   1057313|e511cd5d||Diagram: Gryphine Steel Sword - Enhanced
+   1057314|e511cd5e||Diagram: Gryphine Steel Sword - Superior
+   1057315|e511cd5f||Diagram: Gryphine Steel Sword - Mastercrafted
+   1190107|e511cd60||Diagram: Gryphine Steel Sword - Grandmaster
+;
+   1108929|77dfe25b||Diagram: Gryphine Steel Sword - Legendary
+   1108942|ff70c34d||Diagram: Gryphine Steel Sword - Legendary (Enhanced)
+   1108943|ff70c34e||Diagram: Gryphine Steel Sword - Legendary (Superior)
+   1108944|ff70c34f||Diagram: Gryphine Steel Sword - Legendary (Mastercrafted)  
+   1193054|53de03ad||Diagram: Gryphine Steel Sword - Legendary (Grandmaster)
+;
+;Armor
+;
+   1057123|f185563d||Gryphine Armor
+   1057124|a588c6af||Gryphine Armor - Enhanced
+   1057125|a588c6b0||Gryphine Armor - Superior
+   1057126|a588c6b1||Gryphine Armor - Mastercrafted
+   1188292|a588c6b2||Gryphine Armor - Grandmaster
+;
+   1108909|06bfae50||Gryphine Armor - Legendary
+   1108910|558d6602||Gryphine Armor - Legendary (Enhanced)
+   1108911|558d6603||Gryphine Armor - Legendary (Superior)
+   1108912|558d6604||Gryphine Armor - Legendary (Mastercrafted)  
+   1193040|558d6605||Gryphine Armor - Legendary (Grandmaster)
+;
+   1057257|7bf303cb||Diagram: Gryphine Armor
+   1057307|28a5a458||Diagram: Gryphine Armor - Enhanced
+   1057308|28a5a459||Diagram: Gryphine Armor - Superior
+   1057309|28a5a45a||Diagram: Gryphine Armor - Mastercrafted
+   1190118|28a5a45b||Diagram: Gryphine Armor - Grandmaster
+;
+   1108913|7b18a01e||Diagram: Gryphine Armor - Legendary
+   1108963|7d7b0925||Diagram: Gryphine Armor - Legendary (Enhanced)
+   1108964|7d7b0926||Diagram: Gryphine Armor - Legendary (Superior)
+   1108966|7d7b0927||Diagram: Gryphine Armor - Legendary (Mastercrafted)  
+   1193041|7d7b0928||Diagram: Gryphine Armor - Legendary (Grandmaster)
+;
+;Boots
+;
+   1057161|d56ef0b1||Gryphine Boots
+   1057162|d56ef0b2||Gryphine Boots - Enhanced
+   1101615|d56ef0b3||Gryphine Boots - Superior
+   1101616|d56ef0b4||Gryphine Boots - Mastercrafted
+   1188293|d56ef0b5||Gryphine Boots - Grandmaster
+;
+   1108914|85739004||Gryphine Boots - Legendary
+   1108915|85739005||Gryphine Boots - Legendary (Enhanced)
+   1108916|85739006||Gryphine Boots - Legendary (Superior)
+   1108917|85739007||Gryphine Boots - Legendary (Mastercrafted)  
+   1193043|85739008||Gryphine Boots - Legendary (Grandmaster)
+;   
+   1057258|c8980bcd||Diagram: Gryphine Boots
+   1057310|5371c7d1||Diagram: Gryphine Boots - Enhanced
+   1101621|5371c7d2||Diagram: Gryphine Boots - Superior
+   1101622|5371c7d3||Diagram: Gryphine Boots - Mastercrafted
+   1193042|5371c7d4||Diagram: Gryphine Boots - Grandmaster
+   1190120|5371c7d5||Diagram: Gryphine Boots - Grandmaster
+;
+   1108918|c7bda820||Diagram: Gryphine Boots - Legendary
+   1108953|35261564||Diagram: Gryphine Boots - Legendary (Enhanced)
+   1108954|35261565||Diagram: Gryphine Boots - Legendary (Superior)
+   1108955|35261566||Diagram: Gryphine Boots - Legendary (Mastercrafted) 
+   1193044|35261567||Diagram: Gryphine Boots - Legendary (Grandmaster)
+;
+;Gauntlets
+;
+   1057400|413876ae||Gryphine Gauntlets
+   1057401|413876af||Gryphine Gauntlets - Enhanced
+   1101617|413876b0||Gryphine Gauntlets - Superior
+   1101618|413876b1||Gryphine Gauntlets - Mastercrafted
+   1188294|413876b2||Gryphine Gauntlets - Grandmaster
+;   
+   1108919|91c7c1bb||Gryphine Gauntlets - Legendary
+   1108920|91c7c1bc||Gryphine Gauntlets - Legendary (Enhanced)
+   1108921|91c7c1bd||Gryphine Gauntlets - Legendary (Superior)
+   1108922|91c7c1be||Gryphine Gauntlets - Legendary (Mastercrafted)
+   1193046|91c7c1bf||Gryphine Gauntlets - Legendary (Grandmaster)   
+;
+   1057259|70ae44ca||Diagram: Gryphine Gauntlets
+   1057312|c4c84cc4||Diagram: Gryphine Gauntlets - Enhanced
+   1101623|c4c84cc5||Diagram: Gryphine Gauntlets - Superior
+   1101624|c4c84cc6||Diagram: Gryphine Gauntlets - Mastercrafted
+   1193045|c4c84cc7||Diagram: Gryphine Gauntlets - Grandmaster
+   1190119|c4c84cc8||Diagram: Gryphine Gauntlets - Grandmaster
+;   
+   1108923|563c32d7||Diagram: Gryphine Gauntlets - Legendary
+   1108956|199db191||Diagram: Gryphine Gauntlets - Legendary (Enhanced)
+   1108957|199db192||Diagram: Gryphine Gauntlets - Legendary (Superior)
+   1108961|199db193||Diagram: Gryphine Gauntlets - Legendary (Mastercrafted) 
+   1193047|199db194||Diagram: Gryphine Gauntlets - Legendary (Grandmaster)
+;
+;Trousers
+;
+   1057690|a2143e0c||Gryphine Trousers
+   1057691|a2143e0d||Gryphine Trousers - Enhanced
+   1101613|a2143e0e||Gryphine Trousers - Superior
+   1101614|a2143e0f||Gryphine Trousers - Mastercrafted
+   1188295|a2143e10||Gryphine Trousers - Grandmaster
+;
+   1108924|5218dd5f||Gryphine Trousers - Legendary
+   1108925|5218dd60||Gryphine Trousers - Legendary (Enhanced)
+   1108926|5218dd61||Gryphine Trousers - Legendary (Superior)
+   1108927|5218dd62||Gryphine Trousers - Legendary (Mastercrafted)
+   1193049|5218dd63||Gryphine Trousers - Legendary (Grandmaster)   
+;
+   1057260|69f3ce28||Diagram: Gryphine Trousers
+   1057311|7bce946c||Diagram: Gryphine Trousers - Enhanced
+   1101619|7bce946d||Diagram: Gryphine Trousers - Superior
+   1101620|7bce946e||Diagram: Gryphine Trousers - Mastercrafted
+   1193048|7bce946f||Diagram: Gryphine Trousers - Grandmaster
+   1190121|7bce9470||Diagram: Gryphine Trousers - Grandmaster
+;
+   1108928|69196a7b||Diagram: Gryphine Trousers - Legendary
+   1108967|5d82e1ff||Diagram: Gryphine Trousers - Legendary (Enhanced)
+   1108968|5d82e200||Diagram: Gryphine Trousers - Legendary (Superior)
+   1108969|5d82e201||Diagram: Gryphine Trousers - Legendary (Mastercrafted) 
+   1193050|5d82e202||Diagram: Gryphine Trousers - Legendary (Grandmaster)
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Feline Set
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+   1063875|13bb6416||Feline Silver Sword
+   1063876|1272c248||Feline Silver Sword - Enhanced
+   1063877|1272c249||Feline Silver Sword - Superior
+   1063878|1272c24a||Feline Silver Sword - Mastercrafted
+   1193034|1272c24b||Feline Silver Sword - Grandmaster
+;
+   1109004|f9495223||Feline Silver Sword - Legendary
+   1109005|cc3d6115||Feline Silver Sword - Legendary (Enhanced)
+   1109006|cc3d6116||Feline Silver Sword - Legendary (Superior)
+   1109011|cc3d6117||Feline Silver Sword - Legendary (Mastercrafted)
+   1193035|cc3d6118||Feline Silver Sword - Legendary (Grandmaster)
+;   
+   1057202|a5985664||Diagram: Feline Silver Sword
+   1057340|989fc073||Diagram: Feline Silver Sword - Enhanced
+   1057341|989fc074||Diagram: Feline Silver Sword - Superior
+   1057342|989fc075||Diagram: Feline Silver Sword - Mastercrafted
+   1190110|989fc076||Diagram: Feline Silver Sword - Grandmaster
+;
+   1109012|ecb1d831||Diagram: Feline Silver Sword - Legendary
+   1109013|0daf2600||Diagram: Feline Silver Sword - Legendary (Enhanced)
+   1109016|0daf2601||Diagram: Feline Silver Sword - Legendary (Superior)
+   1109017|0daf2602||Diagram: Feline Silver Sword - Legendary (Mastercrafted)
+   1193036|0daf2603||Diagram: Feline Silver Sword - Legendary (Grandmaster)
+;
+;Steel Sword
+;
+   1063833|94a04b5e||Feline Steel Sword
+   1063834|edbaf790||Feline Steel Sword - Enhanced
+   1063835|edbaf791||Feline Steel Sword - Superior
+   1063836|edbaf792||Feline Steel Sword - Mastercrafted
+   1193037|edbaf793||Feline Steel Sword - Grandmaster
+;
+   1109020|93c5e7b1||Feline Steel Sword - Legendary
+   1109027|b9eacb23||Feline Steel Sword - Legendary (Enhanced)
+   1109028|b9eacb24||Feline Steel Sword - Legendary (Superior)
+   1109029|b9eacb25||Feline Steel Sword - Legendary (Mastercrafted)
+   1193038|b9eacb26||Feline Steel Sword - Legendary (Grandmaster)
+;   
+   1057181|971ac3ac||Diagram: Feline Steel Sword
+   1082726|7907ed0b||Diagram: Feline Steel Sword
+   1057337|501033bb||Diagram: Feline Steel Sword - Enhanced
+   1057338|501033bc||Diagram: Feline Steel Sword - Superior
+   1057339|501033bd||Diagram: Feline Steel Sword - Mastercrafted
+   1190106|501033be||Diagram: Feline Steel Sword - Grandmaster
+;
+   1109021|4f13543f||Diagram: Feline Steel Sword - Legendary
+   1109034|d78f4c31||Diagram: Feline Steel Sword - Legendary (Enhanced)
+   1109035|d78f4c32||Diagram: Feline Steel Sword - Legendary (Superior)
+   1109041|d78f4c33||Diagram: Feline Steel Sword - Legendary (Mastercrafted)
+   1193039|95e76891||Diagram: Feline Steel Sword - Legendary (Grandmaster)
+;
+;Crossbow
+;
+   1063943|b593b0d5||Feline Crossbow
+   1109002|483cad62||Feline Crossbow - Legendary
+;
+   1057216|d5230063||Diagram: Feline Crossbow
+   1109003|57b770b0||Diagram: Feline Crossbow - Legendary
+;
+;Armor
+;
+   1057119|1051b41f||Feline Armor
+   1057120|42b53411||Feline Armor - Enhanced
+   1057121|42b53412||Feline Armor - Superior
+   1057122|42b53413||Feline Armor - Mastercrafted
+   1193021|42b53414||Feline Armor - Grandmaster
+;
+   1108982|24c58cec||Feline Armor - Legendary
+   1108983|09960d9e||Feline Armor - Legendary (Enhanced)
+   1108984|09960d9f||Feline Armor - Legendary (Superior)
+   1108985|09960da0||Feline Armor - Legendary (Mastercrafted)
+   1193022|09960da1||Feline Armor - Legendary (Grandmaster)
+;   
+   1057253|1294ef2d||Diagram: Feline Armor
+   1057331|f76b4cc0||Diagram: Feline Armor - Enhanced
+   1057332|f76b4cc1||Diagram: Feline Armor - Superior
+   1057333|f76b4cc2||Diagram: Feline Armor - Mastercrafted
+   1190114|f76b4cc3||Diagram: Feline Armor - Grandmaster
+;
+   1108986|a53debba||Diagram: Feline Armor - Legendary
+   1109048|b6ebe313||Diagram: Feline Armor - Legendary (Enhanced)
+   1109049|b6ebe314||Diagram: Feline Armor - Legendary (Superior)
+   1109050|b6ebe315||Diagram: Feline Armor - Legendary (Mastercrafted)
+   1193023|b6ebe316||Diagram: Feline Armor - Legendary (Grandmaster)
+;
+;Boots
+;
+   1057159|729b5e13||Feline Boots
+   1057160|729b5e14||Feline Boots - Enhanced
+   1101600|729b5e15||Feline Boots - Superior
+   1101601|729b5e16||Feline Boots - Mastercrafted
+   1193024|729b5e17||Feline Boots - Grandmaster
+;
+   1108987|397c37a0||Feline Boots - Legendary
+   1108988|397c37a1||Feline Boots - Legendary (Enhanced)
+   1108989|397c37a2||Feline Boots - Legendary (Superior)
+   1108990|397c37a3||Feline Boots - Legendary (Mastercrafted)
+   1193026|397c37a4||Feline Boots - Legendary (Grandmaster)
+;   
+   1057254|5f39f72f||Diagram: Feline Boots
+   1057334|6aa17269||Diagram: Feline Boots - Enhanced
+   1101609|6aa1726a||Diagram: Feline Boots - Superior
+   1101610|6aa1726b||Diagram: Feline Boots - Mastercrafted
+   1193025|6aa1726c||Diagram: Feline Boots - Grandmaster
+   1190116|6aa1726d||Diagram: Feline Boots - Grandmaster
+;
+   1108991|f1e2f3bc||Diagram: Feline Boots - Legendary
+   1109042|a25b45b6||Diagram: Feline Boots - Legendary (Enhanced)
+   1109043|a25b45b7||Diagram: Feline Boots - Legendary (Superior)
+   1109044|a25b45b8||Diagram: Feline Boots - Legendary (Mastercrafted)
+   1193027|a25b45b9||Diagram: Feline Boots - Legendary (Grandmaster)
+; 
+;Gauntlets
+;
+   1057398|4999b58c||Feline Gauntlets
+   1057399|4999b58d||Feline Gauntlets - Enhanced
+   1101602|4999b58e||Feline Gauntlets - Superior
+   1101603|4999b58f||Feline Gauntlets - Mastercrafted
+   1193028|4999b590||Feline Gauntlets - Grandmaster
+;
+   1108992|5ed40d9f||Feline Gauntlets - Legendary
+   1108993|5ed40da0||Feline Gauntlets - Legendary (Enhanced)
+   1108994|5ed40da1||Feline Gauntlets - Legendary (Superior)
+   1108995|5ed40da2||Feline Gauntlets - Legendary (Mastercrafted)
+   1193029|5ed40da3||Feline Gauntlets - Legendary (Grandmaster)
+;   
+   1057255|ae49c5a8||Diagram: Feline Gauntlets
+   1057336|938df52c||Diagram: Feline Gauntlets - Enhanced
+   1101611|938df52d||Diagram: Feline Gauntlets - Superior
+   1101612|938df52e||Diagram: Feline Gauntlets - Mastercrafted
+   1190115|938df530||Diagram: Feline Gauntlets - Grandmaster
+;
+   1108996|70c05abb||Diagram: Feline Gauntlets - Legendary
+   1109045|530e8b7f||Diagram: Feline Gauntlets - Legendary (Enhanced)
+   1109046|530e8b80||Diagram: Feline Gauntlets - Legendary (Superior)
+   1109047|530e8b81||Diagram: Feline Gauntlets - Legendary (Mastercrafted)
+   1193030|530e8b83||Diagram: Feline Gauntlets - Legendary (Grandmaster)
+;
+;Trousers
+;
+   1057688|3f40ab6e||Feline Trousers
+   1057689|3f40ab6f||Feline Trousers - Enhanced
+   1101598|3f40ab70||Feline Trousers - Superior
+   1101599|3f40ab71||Feline Trousers - Mastercrafted
+   1193031|3f40ab72||Feline Trousers - Grandmaster
+;
+   1108997|062184fb||Feline Trousers - Legendary
+   1108998|062184fc||Feline Trousers - Legendary (Enhanced)
+   1108999|062184fd||Feline Trousers - Legendary (Superior)
+   1109000|062184fe||Feline Trousers - Legendary (Mastercrafted)
+   1193032|062184ff||Feline Trousers - Legendary (Grandmaster)
+;   
+   1057256|0095b98a||Diagram: Feline Trousers
+   1057335|92fe3f04||Diagram: Feline Trousers - Enhanced
+   1101604|92fe3f05||Diagram: Feline Trousers - Superior
+   1101608|92fe3f06||Diagram: Feline Trousers - Mastercrafted
+   1190117|92fe3f08||Diagram: Feline Trousers - Grandmaster
+;
+   1109001|933eb617||Diagram: Feline Trousers - Legendary
+   1109051|cab81251||Diagram: Feline Trousers - Legendary (Enhanced)
+   1109052|cab81252||Diagram: Feline Trousers - Legendary (Superior)
+   1109053|cab81253||Diagram: Feline Trousers - Legendary (Mastercrafted)
+   1193033|cab81255||Diagram: Feline Trousers - Legendary (Grandmaster)
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Ursine Set
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+   1063886|4f6b9b33||Ursine Silver Sword
+   1063887|22f1a625||Ursine Silver Sword - Enhanced
+   1063888|22f1a626||Ursine Silver Sword - Superior
+   1063889|22f1a627||Ursine Silver Sword - Mastercrafted
+   1193070|22f1a628||Ursine Silver Sword - Grandmaster
+;
+   1108645|34f98940||Ursine Silver Sword - Legendary
+   1108646|dcbc44f2||Ursine Silver Sword - Legendary (Enhanced)
+   1108647|dcbc44f3||Ursine Silver Sword - Legendary (Superior)
+   1108648|dcbc44f4||Ursine Silver Sword - Legendary (Mastercrafted)
+   1193071|dcbc44f5||Ursine Silver Sword - Legendary (Grandmaster)
+;   
+   1057208|05980d41||Diagram: Ursine Silver Sword
+   1057304|66624710||Diagram: Ursine Silver Sword - Enhanced
+   1057305|66624711||Diagram: Ursine Silver Sword - Superior
+   1057306|66624712||Diagram: Ursine Silver Sword - Mastercrafted
+   1190112|66624713||Diagram: Ursine Silver Sword - Grandmaster
+;
+   1108649|4cb18f0e||Diagram: Ursine Silver Sword - Legendary
+   1108651|e68a0f40||Diagram: Ursine Silver Sword - Legendary (Enhanced)
+   1108652|e68a0f41||Diagram: Ursine Silver Sword - Legendary (Superior)
+   1108653|e68a0f42||Diagram: Ursine Silver Sword - Legendary (Mastercrafted)
+   1193072|db71aca0||Diagram: Ursine Silver Sword - Legendary (Grandmaster)
+; 
+;Steel Sword
+;
+   1063855|1aae3ca1||Ursine Steel Sword
+   1063856|2811a413||Ursine Steel Sword - Enhanced
+   1063857|2811a414||Ursine Steel Sword - Superior
+   1063858|2811a415||Ursine Steel Sword - Mastercrafted
+   1193073|2811a416||Ursine Steel Sword - Grandmaster
+;
+   1108654|19d3d8f4||Ursine Steel Sword - Legendary
+   1108655|f44177a6||Ursine Steel Sword - Legendary (Enhanced)
+   1108656|f44177a7||Ursine Steel Sword - Legendary (Superior)
+   1108657|f44177a8||Ursine Steel Sword - Legendary (Mastercrafted)
+   1193074|f44177a9||Ursine Steel Sword - Legendary (Grandmaster)
+;   
+   1057193|f50a3d2f||Diagram: Ursine Steel Sword
+   1057301|98c3e57e||Diagram: Ursine Steel Sword - Enhanced
+   1057302|98c3e57f||Diagram: Ursine Steel Sword - Superior
+   1057303|98c3e580||Diagram: Ursine Steel Sword - Mastercrafted
+   1190108|98c3e581||Diagram: Ursine Steel Sword - Grandmaster
+;
+   1108905|ad02cdc2||Diagram: Ursine Steel Sword - Legendary
+   1108906|778670f4||Diagram: Ursine Steel Sword - Legendary (Enhanced)
+   1108907|778670f5||Diagram: Ursine Steel Sword - Legendary (Superior)
+   1108908|778670f6||Diagram: Ursine Steel Sword - Legendary (Mastercrafted)
+   1193075|de9b1a54||Diagram: Ursine Steel Sword - Legendary (Grandmaster)
+; 
+;Crossbow
+;
+   1054688|b88dfe72||Ursine Crossbow
+   1108642|4b36faff||Ursine Crossbow - Legendary
+;
+   1057215|01a2adc0||Diagram: Ursine Crossbow
+   1108643|84371e0d||Diagram: Ursine Crossbow - Legendary
+;
+;Armor
+;
+   1057127|6c45f1fc||Ursine Armor
+   1057128|72916eae||Ursine Armor - Enhanced
+   1057129|72916eaf||Ursine Armor - Superior
+   1057130|72916eb0||Ursine Armor - Mastercrafted
+   1193055|72916eb1||Ursine Armor - Grandmaster
+;
+   1108620|80b9cac9||Ursine Armor - Legendary
+   1108623|3972483b||Ursine Armor - Legendary (Enhanced)
+   1108624|3972483c||Ursine Armor - Legendary (Superior)
+   1108625|3972483d||Ursine Armor - Legendary (Mastercrafted)
+   1193056|3972483e||Ursine Armor - Legendary (Grandmaster)
+;  
+   1057261|158f3cca||Diagram: Ursine Armor
+   1057295|5ae14b03||Diagram: Ursine Armor - Enhanced
+   1057296|5ae14b04||Diagram: Ursine Armor - Superior
+   1057297|5ae14b05||Diagram: Ursine Armor - Mastercrafted
+   1190122|5ae14b06||Diagram: Ursine Armor - Grandmaster
+;
+   1108626|a8383957||Diagram: Ursine Armor - Legendary
+   1108976|1a61e156||Diagram: Ursine Armor - Legendary (Enhanced)
+   1108977|1a61e157||Diagram: Ursine Armor - Legendary (Superior)
+   1108978|1a61e158||Diagram: Ursine Armor - Legendary (Mastercrafted)
+   1193057|1a61e159||Diagram: Ursine Armor - Legendary (Grandmaster)
+;
+;Boots
+;
+   1057163|a27798b0||Ursine Boots
+   1057164|a27798b1||Ursine Boots - Enhanced
+   1101638|a27798b2||Ursine Boots - Superior
+   1101639|a27798b3||Ursine Boots - Mastercrafted
+   1193058|a27798b4||Ursine Boots - Grandmaster
+;
+   1108627|6958723d||Ursine Boots - Legendary
+   1108628|6958723e||Ursine Boots - Legendary (Enhanced)
+   1108629|6958723f||Ursine Boots - Legendary (Superior)
+   1108630|69587240||Ursine Boots - Legendary (Mastercrafted)
+   1193060|69587241||Ursine Boots - Legendary (Grandmaster)
+;  
+   1057262|623444cc||Diagram: Ursine Boots
+   1057298|97211fc6||Diagram: Ursine Boots - Enhanced
+   1101644|97211fc7||Diagram: Ursine Boots - Superior
+   1101645|97211fc8||Diagram: Ursine Boots - Mastercrafted
+   1193059|97211fc9||Diagram: Ursine Boots - Grandmaster
+   1190124|97211fca||Diagram: Ursine Boots - Grandmaster
+;
+   1108631|f4dd4159||Diagram: Ursine Boots - Legendary
+   1108970|cedaf313||Diagram: Ursine Boots - Legendary (Enhanced)
+   1108971|cedaf314||Diagram: Ursine Boots - Legendary (Superior)
+   1108972|cedaf315||Diagram: Ursine Boots - Legendary (Mastercrafted)
+   1193061|cedaf316||Diagram: Ursine Boots - Legendary (Grandmaster)
+;    
+;Gauntlets
+;
+   1057402|1544ce8f||Ursine Gauntlets
+   1057403|1544ce90||Ursine Gauntlets - Enhanced
+   1101640|1544ce91||Ursine Gauntlets - Superior
+   1101641|1544ce92||Ursine Gauntlets - Mastercrafted
+   1193062|1544ce93||Ursine Gauntlets - Grandmaster
+;
+   1108632|2a7f26a2||Ursine Gauntlets - Legendary
+   1108633|2a7f26a3||Ursine Gauntlets - Legendary (Enhanced)
+   1108634|2a7f26a4||Ursine Gauntlets - Legendary (Superior)
+   1108635|2a7f26a5||Ursine Gauntlets - Legendary (Mastercrafted)
+   1193064|2a7f26a6||Ursine Gauntlets - Legendary (Grandmaster)
+;  
+   1057263|0a992bab||Diagram: Ursine Gauntlets
+   1057300|f703f36f||Diagram: Ursine Gauntlets - Enhanced
+   1101646|f703f370||Diagram: Ursine Gauntlets - Superior
+   1101647|f703f371||Diagram: Ursine Gauntlets - Mastercrafted
+   1193063|f703f372||Diagram: Ursine Gauntlets - Grandmaster
+   1190123|f703f373||Diagram: Ursine Gauntlets - Grandmaster
+;
+   1108636|cd0fc0be||Diagram: Ursine Gauntlets - Legendary
+   1108973|b68489c2||Diagram: Ursine Gauntlets - Legendary (Enhanced)
+   1108974|b68489c3||Diagram: Ursine Gauntlets - Legendary (Superior)
+   1108975|b68489c4||Diagram: Ursine Gauntlets - Legendary (Mastercrafted)
+   1193065|b68489c5||Diagram: Ursine Gauntlets - Legendary (Grandmaster)
+;  
+;Trousers
+;
+   1057692|6f1ce60b||Ursine Trousers
+   1057693|6f1ce60c||Ursine Trousers - Enhanced
+   1101625|6f1ce60d||Ursine Trousers - Superior
+   1101637|6f1ce60e||Ursine Trousers - Mastercrafted
+   1193066|6f1ce60f||Ursine Trousers - Grandmaster
+;
+   1108637|35fdbf98||Ursine Trousers - Legendary
+   1108638|35fdbf99||Ursine Trousers - Legendary (Enhanced)
+   1108639|35fdbf9a||Ursine Trousers - Legendary (Superior)
+   1108640|35fdbf9b||Ursine Trousers - Legendary (Mastercrafted)
+   1193068|35fdbf9c||Ursine Trousers - Legendary (Grandmaster)
+;  
+   1057264|03900727||Diagram: Ursine Trousers
+   1057299|bf7dec61||Diagram: Ursine Trousers - Enhanced
+   1101642|bf7dec62||Diagram: Ursine Trousers - Superior
+   1101643|bf7dec63||Diagram: Ursine Trousers - Mastercrafted
+   1190125|bf7dec65||Diagram: Ursine Trousers - Grandmaster
+   1193067|bf7dec64||Diagram: Ursine Trousers - Grandmaster
+;
+   1108641|963903b4||Diagram: Ursine Trousers - Legendary
+   1108979|f737bfae||Diagram: Ursine Trousers - Legendary (Enhanced)
+   1108980|f737bfaf||Diagram: Ursine Trousers - Legendary (Superior)
+   1108981|f737bfb0||Diagram: Ursine Trousers - Legendary (Mastercrafted)
+   1193069|f737bfb1||Diagram: Ursine Trousers - Legendary (Grandmaster)
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Lupine Set
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;   
+;Silver Sword
+;
+   1063893|120fd2d1||Lupine Silver Sword
+   1063894|cd666e43||Lupine Silver Sword - Enhanced
+   1063895|cd666e44||Lupine Silver Sword - Superior
+   1063896|cd666e45||Lupine Silver Sword - Mastercrafted
+   1193091|cd666e46||Lupine Silver Sword - Grandmaster
+;
+   1109278|f79dc0de||Lupine Silver Sword - Legendary
+   1109279|87310d10||Lupine Silver Sword - Legendary (Enhanced)
+   1109280|87310d11||Lupine Silver Sword - Legendary (Superior)
+   1109281|87310d12||Lupine Silver Sword - Legendary (Mastercrafted)
+   1193092|87310d13||Lupine Silver Sword - Legendary (Grandmaster)
+;   
+   1057210|d2c9d75f||Diagram: Lupine Silver Sword
+   1057328|122c83ae||Diagram: Lupine Silver Sword - Enhanced
+   1057329|122c83af||Diagram: Lupine Silver Sword - Superior
+   1057330|122c83b0||Diagram: Lupine Silver Sword - Mastercrafted
+   1190113|122c83b1||Diagram: Lupine Silver Sword - Grandmaster
+;
+   1109282|4677abc9||Diagram: Lupine Silver Sword - Legendary
+   1109283|873be93b||Diagram: Lupine Silver Sword - Legendary (Enhanced)
+   1109284|873be93c||Diagram: Lupine Silver Sword - Legendary (Superior)
+   1109289|873be93d||Diagram: Lupine Silver Sword - Legendary (Mastercrafted)
+   1193093|873be93e||Diagram: Lupine Silver Sword - Legendary (Grandmaster)
+;  
+;Steel Sword
+;
+   1063860|20f59943||Lupine Steel Sword
+   1063861|b9f46035||Lupine Steel Sword - Enhanced
+   1063862|b9f46036||Lupine Steel Sword - Superior
+   1063863|b9f46037||Lupine Steel Sword - Mastercrafted
+   1193094|b9f46038||Lupine Steel Sword - Grandmaster
+;
+   1109290|201b3596||Lupine Steel Sword - Legendary
+   1109291|862433c8||Lupine Steel Sword - Legendary (Enhanced)
+   1109292|862433c9||Lupine Steel Sword - Legendary (Superior)
+   1109293|862433ca||Lupine Steel Sword - Legendary (Mastercrafted)
+   1193095|862433cb||Lupine Steel Sword - Legendary (Grandmaster)
+;   
+   1057194|7787b751||Diagram: Lupine Steel Sword
+   1057325|a6909d20||Diagram: Lupine Steel Sword - Enhanced
+   1057326|a6909d21||Diagram: Lupine Steel Sword - Superior
+   1057327|a6909d22||Diagram: Lupine Steel Sword - Mastercrafted
+   1190109|a6909d23||Diagram: Lupine Steel Sword - Grandmaster
+;
+   1109294|30766281||Diagram: Lupine Steel Sword - Legendary
+   1109295|ec67d1f3||Diagram: Lupine Steel Sword - Legendary (Enhanced)
+   1109296|ec67d1f4||Diagram: Lupine Steel Sword - Legendary (Superior)
+   1109308|ec67d1f5||Diagram: Lupine Steel Sword - Legendary (Mastercrafted)
+   1193096|ec67d1f6||Diagram: Lupine Steel Sword - Legendary (Grandmaster)
+;
+;Armor
+;
+    593338|7631b534||Lupine Armor
+   1057115|3cdab61a||Lupine Armor
+   1057116|7105a34c||Lupine Armor - Enhanced
+   1057117|7105a34d||Lupine Armor - Superior
+   1057118|7105a34e||Lupine Armor - Mastercrafted
+   1193076|7105a34f||Lupine Armor - Grandmaster
+;
+   1109242|514e8ee7||Lupine Armor - Legendary
+   1109212|c6c10041||Lupine Armor - Legendary
+   1109243|37e67cd9||Lupine Armor - Legendary (Enhanced)
+   1109244|37e67cda||Lupine Armor - Legendary (Superior)
+   1109245|37e67cdb||Lupine Armor - Legendary (Mastercrafted)
+   1193077|37e67cdc||Lupine Armor - Legendary (Grandmaster)
+;  
+   1057265|c8cbf368||Diagram: Lupine Armor
+   1057319|955ae5a5||Diagram: Lupine Armor - Enhanced
+   1057320|955ae5a6||Diagram: Lupine Armor - Superior
+   1057321|955ae5a7||Diagram: Lupine Armor - Mastercrafted
+   1190126|955ae5a8||Diagram: Lupine Armor - Grandmaster
+;
+   1109246|5b74eff5||Diagram: Lupine Armor - Legendary
+   1109224|54db7bf8||Diagram: Lupine Armor - Legendary (Enhanced)
+   1109225|54db7bf9||Diagram: Lupine Armor - Legendary (Superior)
+   1109226|54db7bfa||Diagram: Lupine Armor - Legendary (Mastercrafted)
+   1193078|54db7bfb||Diagram: Lupine Armor - Legendary (Grandmaster)
+;  
+;Boots
+;
+    593336|b5e5c6eb||Lupine Boots
+   1057157|a0ebcd4e||Lupine Boots
+   1050793|21274dcf||Lupine Boots
+   1057158|a0ebcd4f||Lupine Boots - Enhanced
+   1101654|a0ebcd50||Lupine Boots - Superior
+   1101655|a0ebcd51||Lupine Boots - Mastercrafted
+   1193079|a0ebcd52||Lupine Boots - Grandmaster
+;
+   1109215|067511f8||Lupine Boots - Legendary
+   1109253|67cca6db||Lupine Boots - Legendary
+   1109255|67cca6dc||Lupine Boots - Legendary (Enhanced)
+   1109256|67cca6dd||Lupine Boots - Legendary (Superior)
+   1109260|67cca6de||Lupine Boots - Legendary (Mastercrafted)
+   1193081|67cca6df||Lupine Boots - Legendary (Grandmaster)
+;  
+   1057266|1570fb6a||Diagram: Lupine Boots
+   1057322|eb98a8e4||Diagram: Lupine Boots - Enhanced
+   1101662|eb98a8e5||Diagram: Lupine Boots - Superior
+   1101663|eb98a8e6||Diagram: Lupine Boots - Mastercrafted
+   1193080|eb98a8e7||Diagram: Lupine Boots - Grandmaster
+   1190128|eb98a8e8||Diagram: Lupine Boots - Grandmaster
+;
+   1109261|a819f7f7||Diagram: Lupine Boots - Legendary
+   1109216|23527c31||Diagram: Lupine Boots - Legendary (Enhanced)
+   1109217|23527c32||Diagram: Lupine Boots - Legendary (Superior)
+   1109218|23527c33||Diagram: Lupine Boots - Legendary (Mastercrafted)
+   1193082|23527c34||Diagram: Lupine Boots - Legendary (Grandmaster)
+;    
+;Gauntlets
+;
+    593337|cf697753||Lupine Gauntlets
+   1057396|e5572db1||Lupine Gauntlets
+   1050786|cc58ccef||Lupine Gauntlets
+   1057397|e5572db2||Lupine Gauntlets - Enhanced
+   1101656|e5572db3||Lupine Gauntlets - Superior
+   1101657|e5572db4||Lupine Gauntlets - Mastercrafted
+   1193083|e5572db5||Lupine Gauntlets - Grandmaster
+;
+   1109213|90c38de6||Lupine Gauntlets - Legendary
+   1109268|fa9185c4||Lupine Gauntlets - Legendary
+   1109269|fa9185c5||Lupine Gauntlets - Legendary (Enhanced)
+   1109270|fa9185c6||Lupine Gauntlets - Legendary (Superior)
+   1109271|fa9185c7||Lupine Gauntlets - Legendary (Mastercrafted)
+   1193085|fa9185c8||Lupine Gauntlets - Legendary (Grandmaster)
+;  
+   1057267|bef348cd||Diagram: Lupine Gauntlets
+   1057324|317d8e11||Diagram: Lupine Gauntlets - Enhanced
+   1101664|317d8e12||Diagram: Lupine Gauntlets - Superior
+   1101674|317d8e13||Diagram: Lupine Gauntlets - Mastercrafted
+   1193084|317d8e14||Diagram: Lupine Gauntlets - Grandmaster
+   1190127|317d8e15||Diagram: Lupine Gauntlets - Grandmaster
+;
+   1109272|8169dde0||Diagram: Lupine Gauntlets - Legendary
+   1109219|f0fe2464||Diagram: Lupine Gauntlets - Legendary (Enhanced)
+   1109220|f0fe2465||Diagram: Lupine Gauntlets - Legendary (Superior)
+   1109223|f0fe2466||Diagram: Lupine Gauntlets - Legendary (Mastercrafted)
+   1193086|f0fe2467||Diagram: Lupine Gauntlets - Legendary (Grandmaster)
+;
+;Trousers
+;
+    593335|0b152977||Lupine Trousers
+   1057686|6d911aa9||Lupine Trousers
+   1050788|7656b05b||Lupine Trousers
+   1057687|6d911aaa||Lupine Trousers - Enhanced
+   1101648|6d911aab||Lupine Trousers - Superior
+   1101653|6d911aac||Lupine Trousers - Mastercrafted
+   1193087|6d911aad||Lupine Trousers - Grandmaster
+;
+   1109214|5ba47484||Lupine Trousers - Legendary
+   1109273|3471f436||Lupine Trousers - Legendary
+   1109274|3471f437||Lupine Trousers - Legendary (Enhanced)
+   1109275|3471f438||Lupine Trousers - Legendary (Superior)
+   1109276|3471f439||Lupine Trousers - Legendary (Mastercrafted)
+   1193089|3471f43a||Lupine Trousers - Legendary (Grandmaster)
+;  
+   1057268|b6ccbdc5||Diagram: Lupine Trousers
+   1057323|13f5757f||Diagram: Lupine Trousers - Enhanced
+   1101658|13f57580||Diagram: Lupine Trousers - Superior
+   1101661|13f57581||Diagram: Lupine Trousers - Mastercrafted
+   1193088|13f57582||Diagram: Lupine Trousers - Grandmaster
+   1190129|13f57583||Diagram: Lupine Trousers - Grandmaster
+;
+   1109277|4975ba52||Diagram: Lupine Trousers - Legendary
+   1109227|4baf48cc||Diagram: Lupine Trousers - Legendary (Enhanced)
+   1109228|4baf48cd||Diagram: Lupine Trousers - Legendary (Superior)
+   1109229|4baf48ce||Diagram: Lupine Trousers - Legendary (Mastercrafted)
+   1193090|4baf48cf||Diagram: Lupine Trousers - Legendary (Grandmaster)
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Forgotten Lupine Set
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+	1221977|217508e0||Forgotten Lupine silver sword
+	1223544|98565c92||Forgotten Lupine silver sword - Mastercrafted
+	1223545|98565c93||Forgotten Lupine silver sword - Grandmaster
+;
+	1221979|a8c2811b||Forgotten Lupine silver sword - Legendary
+	1225037|b41e056d||Forgotten Lupine silver sword - Legendary
+	1225038|24b269df||Forgotten Lupine silver sword - Legendary (Mastercrafted)
+	1225039|24b269e0||Forgotten Lupine silver sword - Legendary (Grandmaster)
+;	
+	1222505|9f0a06ae||Diagram: Forgotten Lupine silver sword
+	1223556|04a31ee0||Diagram: Forgotten Lupine silver sword - Mastercrafted
+	1223557|04a31ee1||Diagram: Forgotten Lupine silver sword - Grandmaster
+;
+	1225040|219e76fb||Diagram: Forgotten Lupine silver sword - Legendary
+	1225041|33dcafed||Diagram: Forgotten Lupine silver sword - Legendary (Mastercrafted)
+	1225042|33dcafee||Diagram: Forgotten Lupine silver sword - Legendary (Grandmaster)
+;
+;Steel Sword
+;
+	1221975|b619e554||Forgotten Lupine steel sword
+	1223546|9735ec06||Forgotten Lupine steel sword - Mastercrafted
+	1223547|9735ec07||Forgotten Lupine steel sword - Grandmaster
+;
+	1221978|8948a327||Forgotten Lupine steel sword - Legendary
+	1225043|59ac8119||Forgotten Lupine steel sword - Legendary (Mastercrafted)
+	1225044|59ac811a||Forgotten Lupine steel sword - Legendary (Grandmaster)
+;	
+	1222506|b7ece222||Diagram: Forgotten Lupine steel sword
+	1223558|703ced54||Diagram: Forgotten Lupine steel sword - Mastercrafted
+	1223559|703ced55||Diagram: Forgotten Lupine steel sword - Grandmaster
+;	
+	1225045|7a12b435||Diagram: Forgotten Lupine steel sword - Legendary
+	1225046|403686a7||Diagram: Forgotten Lupine steel sword - Legendary (Mastercrafted)
+	1225047|403686a8||Diagram: Forgotten Lupine steel sword - Legendary (Grandmaster)
+;
+;Armor
+;
+	1221980|08509f61||Forgotten Lupine armor
+	1223536|36a656d3||Forgotten Lupine armor - Mastercrafted
+	1223537|36a656d4||Forgotten Lupine armor - Grandmaster
+;	
+	1225016|72395b2e||Forgotten Lupine armor - Legendary
+	1225017|c94f5360||Forgotten Lupine armor - Legendary (Mastercrafted)
+	1225018|c94f5361||Forgotten Lupine armor - Legendary (Grandmaster)
+;	
+	1222501|7d8bc1b4||Diagram: Forgotten Lupine armor
+	1223548|49a23066||Diagram: Forgotten Lupine armor - Mastercrafted
+	1223549|49a23067||Diagram: Forgotten Lupine armor - Grandmaster
+;
+	1225011|fd14fc87||Diagram: Forgotten Lupine armor - Legendary
+	1225014|0bc80279||Diagram: Forgotten Lupine armor - Legendary (Mastercrafted)
+	1225015|0bc8027a||Diagram: Forgotten Lupine armor - legendary (Grandmaster)
+;
+;Boots
+;
+	1221981|be9164e8||Forgotten Lupine boots
+	1223538|5fcbd69a||Forgotten Lupine boots - Mastercrafted
+	1223539|5fcbd69b||Forgotten Lupine boots - Grandmaster
+;
+	1225019|7feb7b7b||Forgotten Lupine boots - Legendary
+	1225020|32fa946d||Forgotten Lupine boots - Legendary (Mastercrafted)
+	1225021|32fa946e||Forgotten Lupine boots - Legendary (Grandmaster)
+;	
+	1222502|6088f8b6||Diagram: Forgotten Lupine boots
+	1223550|622daee8||Diagram: Forgotten Lupine boots - Mastercrafted
+	1223551|622daee9||Diagram: Forgotten Lupine boots - Grandmaster
+;	
+	1225022|e0123389||Diagram: Forgotten Lupine boots - Legendary
+	1225023|245380fb||Diagram: Forgotten Lupine boots - Legendary (Mastercrafted)
+	1225024|245380fc||Diagram: Forgotten Lupine boots - Legendary (Grandmaster)
+;
+;Gauntlets
+;
+	1221982|6f3d322b||Forgotten Lupine gauntlets
+	1223540|94b95f1d||Forgotten Lupine gauntlets - Mastercrafted
+	1223541|94b95f1e||Forgotten Lupine gauntlets - Grandmaster
+;
+	1225025|d925edf8||Forgotten Lupine gauntlets - Legendary
+	1225026|27625baa||Forgotten Lupine gauntlets - Legendary (Mastercrafted)
+	1225027|27625bab||Forgotten Lupine gauntlets - Legendary (Grandmaster)
+;	
+	1222503|92734e39||Diagram: Forgotten Lupine gauntlets
+	1223552|c2d8afab||Diagram: Forgotten Lupine gauntlets - Mastercrafted
+	1223553|c2d8afac||Diagram: Forgotten Lupine gauntlets - Grandmaster
+;	
+	1225028|04116dc6||Diagram: Forgotten Lupine gauntlets - Legendary
+	1225029|456d1ff8||Diagram: Forgotten Lupine gauntlets - Legendary (Mastercrafted)
+	1225030|456d1ff9||Diagram: Forgotten Lupine gauntlets - Legendary (Grandmaster)
+;
+;Trousers
+;
+	1221983|f718c783||Forgotten Lupine trousers
+	1223542|9404fe75||Forgotten Lupine trousers - Mastercrafted
+	1223543|9404fe76||Forgotten Lupine trousers - Grandmaster
+;	
+	1225031|b872de16||Forgotten Lupine trousers - Legendary
+	1225032|6733bc48||Forgotten Lupine trousers - Legendary (Mastercrafted)
+	1225033|6733bc49||Forgotten Lupine trousers - Legendary (Grandmaster)
+;
+	1222504|8f361591||Diagram: Forgotten Lupine trousers
+	1223554|9a070103||Diagram: Forgotten Lupine trousers - Mastercrafted
+	1223555|9a070104||Diagram: Forgotten Lupine trousers - Grandmaster
+;
+	1225034|0ebf5064||Diagram: Forgotten Lupine trousers - Legendary
+	1225035|5c2cd316||Diagram: Forgotten Lupine trousers - Legendary (Mastercrafted)
+	1225036|5c2cd317||Diagram: Forgotten Lupine trousers - Legendary (Grandmaster)
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Manticorine Set
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Silver Sword
+;
+   1193113|40c456b1||Manticorine Silver Sword
+   1193137|40c456b2||Manticorine Silver Sword - Enhanced
+;
+   1193115|c358c6fe||Manticorine Silver Sword - Legendary
+   1193139|c358c6ff||Manticorine Silver Sword - Legendary (Enhanced)
+;   
+   1193114|27123e3f||Diagram: Manticorine Silver Sword
+   1193138|10166c9d||Diagram: Manticorine Silver Sword - Enhanced
+;
+   1193116|57a4724c||Diagram: Manticorine Silver Sword - Legendary
+   1193140|fcae43aa||Diagram: Manticorine Silver Sword - Legendary (Enhanced)
+;
+;Steel Sword
+;
+   1193117|8c20b207||Manticorine Steel Sword
+   1193141|8c20b208||Manticorine Steel Sword - Enhanced
+;
+   1193119|4e46841a||Manticorine Steel Sword - Legendary
+   1193143|4e46841b||Manticorine Steel Sword - Legendary (Enhanced)
+;   
+   1193118|3fcce615||Diagram: Manticorine Steel Sword
+   1193142|646ede73||Diagram: Manticorine Steel Sword - Enhanced
+;
+   1193120|ff4d7c68||Diagram: Manticorine Steel Sword - Legendary
+   1193144|cf2971c6||Diagram: Manticorine Steel Sword - Legendary (Enhanced)
+;
+;Armor
+;
+   1193097|1cdec43a||Manticorine Armor
+   1193121|1cdec43b||Manticorine Armor - Enhanced
+;
+   1193099|6d6e0f47||Manticorine Armor - Legendary
+   1193123|6d6e0f48||Manticorine Armor - Legendary (Enhanced)
+;	
+   1193098|40acac1a||Diagram: Manticorine Armor
+   1193122|e97ecf78||Diagram: Manticorine Armor - Enhanced
+;
+   1193100|dcc363ed||Diagram: Manticorine Armor - Legendary
+   1193124|2f56044b||Diagram: Manticorine Armor - Legendary (Enhanced)
+;
+;Boots
+;
+   1193101|4cc4ee3c||Manticorine Boots
+   1193125|4cc4ee3d||Manticorine Boots - Enhanced
+;
+   1193103|9d543949||Manticorine Boots - Legendary
+   1193127|9d54394a||Manticorine Boots - Legendary (Enhanced)
+;	
+   1193102|d099a475||Diagram: Manticorine Boots
+   1193126|cd473cd3||Diagram: Manticorine Boots - Enhanced
+;
+   1193104|4fb14e07||Diagram: Manticorine Boots - Legendary
+   1193128|221ca1a0||Diagram: Manticorine Boots - Legendary (Enhanced)
+;
+;Gauntlets
+;
+   1193105|b4a22a83||Manticorine Gauntlets
+   1193129|b4a22a84||Manticorine Gauntlets - Enhanced
+;
+   1193107|75fc4116||Manticorine Gauntlets - Legendary
+   1193131|75fc4117||Manticorine Gauntlets - Legendary (Enhanced)
+;	
+   1193106|eb048086||Diagram: Manticorine Gauntlets
+   1193130|85a177e4||Diagram: Manticorine Gauntlets - Enhanced
+;
+   1193108|871b3859||Diagram: Manticorine Gauntlets - Legendary
+   1193132|cb78acb7||Diagram: Manticorine Gauntlets - Legendary (Enhanced)
+;
+;Trousers
+;
+   1193109|196a3b97||Manticorine Trousers
+   1193133|196a3b98||Manticorine Trousers - Enhanced
+;
+   1193111|69f986a4||Manticorine Trousers - Legendary
+   1193135|69f986a5||Manticorine Trousers - Legendary (Enhanced)
+;	
+   1193110|8a0e3c10||Diagram: Manticorine Trousers
+   1193134|f5a4096e||Diagram: Manticorine Trousers - Enhanced
+;
+   1193112|d127bddd||Diagram: Manticorine Trousers - Legendary
+   1193136|4a796e3b||Diagram: Manticorine Trousers - Legendary (Enhanced)
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Ghost Mode (Kaer Morhen Set)
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Armor
+;
+   2110992360|917ce1b5||Kaer Morhen Armor
+   2110992376|e17342fd||Kaer Morhen Armor - Worn
+   2110992361|25cb5427||Kaer Morhen Armor - Enhanced
+   2110992362|25cb5428||Kaer Morhen Armor - Superior
+   2110992363|25cb5429||Kaer Morhen Armor - Mastercrafted
+;
+;Boots
+;
+   2110992368|9189a437||Kaer Morhen Boots
+   2110992378|ae52593b||Kaer Morhen Boots - Worn
+   2110992369|55b17e29||Kaer Morhen Boots - Enhanced
+   2110992370|55b17e2a||Kaer Morhen Boots - Superior
+   2110992371|55b17e2b||Kaer Morhen Boots - Mastercrafted
+;
+;Gauntlets
+;
+   2110992372|a808dd84||Kaer Morhen Gauntlets
+   2110992379|cc58d3d4||Kaer Morhen Gauntlets - Worn
+   2110992373|c9479836||Kaer Morhen Gauntlets - Enhanced
+   2110992374|c9479837||Kaer Morhen Gauntlets - Superior
+   2110992375|c9479838||Kaer Morhen Gauntlets - Mastercrafted
+;
+;Trousers
+;
+   2110992364|92488c52||Kaer Morhen Trousers
+   2110992377|7656b740||Kaer Morhen Trousers - Worn
+   2110992365|2256cb84||Kaer Morhen Trousers - Enhanced
+   2110992366|2256cb85||Kaer Morhen Trousers - Superior
+   2110992367|2256cb86||Kaer Morhen Trousers - Mastercrafted
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Kaer Morhen Upgradable Gear (Kaer Morhen Set)
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Armor
+;
+   2111203001||bcc40f01|Kaer Morhen Armor
+   2111203002||bcc40f02|Kaer Morhen Armor - Enhanced
+   2111203003||bcc40f03|Kaer Morhen Armor - Superior
+   2111203004||bcc40f04|Kaer Morhen Armor - Mastercrafted
+;   
+   2111203017||dbbdd183|Diagram: Kaer Morhen Armor
+   2111203018||dbbdd1a2|Diagram: Kaer Morhen Armor - Enhanced
+   2111203019||dbbdd1c1|Diagram: Kaer Morhen Armor - Superior
+   2111203020||dbbdd1e0|Diagram: Kaer Morhen Armor - Mastercrafted
+;
+;Boots
+;
+   2111203009||bcc48360|Kaer Morhen Boots
+   2111203010||bcc48361|Kaer Morhen Boots - Enhanced
+   2111203011||bcc48362|Kaer Morhen Boots - Superior
+   2111203012||bcc48363|Kaer Morhen Boots - Mastercrafted
+;   
+   2111203025||dbcbe904|Diagram: Kaer Morhen Boots
+   2111203026||dbcbe923|Diagram: Kaer Morhen Boots - Enhanced
+   2111203027||dbcbe942|Diagram: Kaer Morhen Boots - Superior
+   2111203028||dbcbe961|Diagram: Kaer Morhen Boots - Mastercrafted
+;
+;Gauntlets
+;
+   2111203005||bcc6c93b|Kaer Morhen Gauntlets
+   2111203006||bcc6c93c|Kaer Morhen Gauntlets - Enhanced
+   2111203007||bcc6c93d|Kaer Morhen Gauntlets - Superior
+   2111203008||bcc6c93e|Kaer Morhen Gauntlets - Mastercrafted
+;   
+   2111203021||dc125e89|Diagram: Kaer Morhen Gauntlets
+   2111203022||dc125ea8|Diagram: Kaer Morhen Gauntlets - Enhanced
+   2111203023||dc125ec7|Diagram: Kaer Morhen Gauntlets - Superior
+   2111203024||dc125ee6|Diagram: Kaer Morhen Gauntlets - Mastercrafted
+;
+;Trousers
+;
+   2111203013||bccae092|Kaer Morhen Trousers
+   2111203014||bccae093|Kaer Morhen Trousers - Enhanced
+   2111203015||bccae094|Kaer Morhen Trousers - Superior
+   2111203016||bccae095|Kaer Morhen Trousers - Mastercrafted
+;   
+   2111203029||dc913212|Diagram: Kaer Morhen Trousers
+   2111203030||dc913231|Diagram: Kaer Morhen Trousers - Enhanced
+   2111203031||dc913250|Diagram: Kaer Morhen Trousers - Superior
+   2111203032||dc91326f|Diagram: Kaer Morhen Trousers - Mastercrafted
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Serpentine Gear Expanded (Serpentine Set)
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Armor
+;
+   2113828800|a8be2974||Serpentine Armor - Enhanced
+   2113828801|a8be2975||Serpentine Armor - Superior
+   2113828802|a8be2976||Serpentine Armor - Mastercrafted
+   2113828900|6211288c||Legendary Serpentine Armor - Enhanced
+   2113828901|621f400d||Legendary Serpentine Armor - Superior
+   2113828902|622d578e||Legendary Serpentine Armor - Mastercrafted
+;
+   2113828819|b0a1b942||Diagram: Serpentine Armor - Enhanced
+   2113828820|b0a1b943||Diagram: Serpentine Armor - Superior
+   2113828821|b0a1b944||Diagram: Serpentine Armor - Mastercrafted
+   2113828919|aaec215a||Diagram: Legendary Serpentine Armor - Enhanced
+   2113828920|aafa38db||Diagram: Legendary Serpentine Armor - Superior
+   2113828921|ab08505c||Diagram: Legendary Serpentine Armor - Mastercrafted
+;
+;Boots
+;
+   2113828803|d8a45376||Serpentine Boots - Enhanced
+   2113828804|d8a45377||Serpentine Boots - Superior
+   2113828805|d8a45378||Serpentine Boots - Mastercrafted
+   2113828903|7eee818e||Legendary Serpentine Boots - Enhanced
+   2113828904|7efc990f||Legendary Serpentine Boots - Superior
+   2113828905|7f0ab090||Legendary Serpentine Boots - Mastercrafted
+;
+   2113828822|6824c8c4||Diagram: Serpentine Boots - Enhanced
+   2113828823|6824c8c5||Diagram: Serpentine Boots - Superior
+   2113828824|6824c8c6||Diagram: Serpentine Boots - Mastercrafted
+   2113828922|c3779fdc||Diagram: Legendary Serpentine Boots - Enhanced
+   2113828923|c385b75d||Diagram: Legendary Serpentine Boots - Superior
+   2113828924|c393cede||Diagram: Legendary Serpentine Boots - Mastercrafted
+;
+;Gauntlets
+;
+   2113828806|a4af6c89||Serpentine Gauntlets - Enhanced
+   2113828807|a4af6c8a||Serpentine Gauntlets - Superior
+   2113828808|a4af6c8b||Serpentine Gauntlets - Mastercrafted
+   2113828906|aed0d921||Legendary Serpentine Gauntlets - Enhanced
+   2113828907|aedef0a2||Legendary Serpentine Gauntlets - Superior
+   2113828908|aeed0823||Legendary Serpentine Gauntlets - Mastercrafted
+;
+   2113828825|44dde617||Diagram: Serpentine Gauntlets - Enhanced
+   2113828826|44dde618||Diagram: Serpentine Gauntlets - Superior
+   2113828827|44dde619||Diagram: Serpentine Gauntlets - Mastercrafted
+   2113828925|38ebdbaf||Diagram: Legendary Serpentine Gauntlets - Enhanced
+   2113828926|38f9f330||Diagram: Legendary Serpentine Gauntlets - Superior
+   2113828927|39080ab1||Diagram: Legendary Serpentine Gauntlets - Mastercrafted
+;
+;Trousers
+;
+   2113828809|a549a0d1||Serpentine Trousers - Enhanced
+   2113828810|a549a0d2||Serpentine Trousers - Superior
+   2113828811|a549a0d3||Serpentine Trousers - Mastercrafted
+   2113828909|b327a969||Legendary Serpentine Trousers - Enhanced
+   2113828910|b335c0ea||Legendary Serpentine Trousers - Superior
+   2113828911|b343d86b||Legendary Serpentine Trousers - Mastercrafted
+;
+   2113828828|2199605f||Diagram: Serpentine Trousers - Enhanced
+   2113828829|21996060||Diagram: Serpentine Trousers - Superior
+   2113828830|21996061||Diagram: Serpentine Trousers - Mastercrafted
+   2113828928|fb50f1f7||Diagram: Legendary Serpentine Trousers - Enhanced
+   2113828929|fb5f0978||Diagram: Legendary Serpentine Trousers - Superior
+   2113828930|fb6d20f9||Diagram: Legendary Serpentine Trousers - Mastercrafted
+;
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ConsistentGearNames (Scavenger Hunts)
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+;
+;Feline
+;
+   1074575|00000000||Scavenger Hunt: Feline School Gear
+   1077916|00000000||Scavenger Hunt: Feline School Gear Upgrade Diagrams - Enhanced Part 1
+   1077981|00000000||Scavenger Hunt: Feline School Gear Upgrade Diagrams - Enhanced Part 2
+   1077985|00000000||Scavenger Hunt: Feline School Gear Upgrade Diagrams - Superior
+   1077982|00000000||Scavenger Hunt: Feline School Gear Upgrade Diagrams - Mastercrafted
+   1184434|00000000||Scavenger Hunt: Feline School Gear Upgrade Diagrams - Grandmaster
+;
+;Ursine
+;
+   1074576|00000000||Scavenger Hunt: Ursine School Gear
+   1078833|00000000||Scavenger Hunt: Ursine School Gear Upgrade Diagrams - Enhanced Part 1
+   1078834|00000000||Scavenger Hunt: Ursine School Gear Upgrade Diagrams - Enhanced Part 2
+   1078835|00000000||Scavenger Hunt: Ursine School Gear Upgrade Diagrams - Superior
+   1078836|00000000||Scavenger Hunt: Ursine School Gear Upgrade Diagrams - Mastercrafted
+   1184447|00000000||Scavenger Hunt: Ursine School Gear Upgrade Diagrams - Grandmaster
+;
+;Gryphine
+;
+   1074577|00000000||Scavenger Hunt: Gryphine School Gear
+   1082083|00000000||Scavenger Hunt: Gryphine School Gear Upgrade Diagrams - Enhanced Part 1
+   1082084|00000000||Scavenger Hunt: Gryphine School Gear Upgrade Diagrams - Enhanced Part 2
+   1082085|00000000||Scavenger Hunt: Gryphine School Gear Upgrade Diagrams - Superior
+   1082086|00000000||Scavenger Hunt: Gryphine School Gear Upgrade Diagrams - Mastercrafted
+   1184435|00000000||Scavenger Hunt: Gryphine School Gear Upgrade Diagrams - Grandmaster
+;
+;Lupine
+;
+   1105798|00000000||New Quest - "Scavenger Hunt: Lupine School Gear"
+   1118009|5be2f42f||New Quest - "Scavenger Hunt: Lupine School Gear"
+   1092209|00000000||Scavenger Hunt: Lupine School Gear
+   1092207|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Enhanced Part 1
+   1092208|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Enhanced Part 2
+   1092210|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Superior Part 1
+   1104352|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Superior Part 2
+   1092211|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Mastercrafted Part 1
+   1104351|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Mastercrafted Part 2
+   1153467|00000000||Scavenger Hunt: Lupine School Gear Upgrade Diagrams - Grandmaster
+;
+;Forgotten Lupine
+;
+   1223204|00000000||Scavenger Hunt: Forgotten Lupine School Gear Upgrade Diagrams
+;
+;Serpentine
+;
+   1064512|00000000||Scavenger Hunt: Serpentine School Gear
+;
+;Manticorine
+;
+   1152256|00000000||Scavenger Hunt: Manticorine School Gear
+;

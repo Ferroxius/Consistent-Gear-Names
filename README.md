@@ -38,3 +38,6 @@ Crafting Changes
 
 Journal Changes
 ![Screenshot (2411)](https://user-images.githubusercontent.com/88400328/212999313-73fbf50c-d046-42ef-9519-6f53c61632f9.png)
+
+### Credits
+K1ngTr4cker for providing Standardised Naming Convention's csv as a basis for this mod
